@@ -1,4 +1,4 @@
-# 📘 Aula 1: Introdução ao TypeScript
+# 📘 Aula 2: Introdução ao TypeScript
 
 ---
 
